@@ -59,5 +59,6 @@ This document presents the development of a motor control system using the Ardui
 
 - **Power Optimization:** Using rechargeable batteries to improve energy efficiency.
 
+
 This project represents an essential step in understanding and implementing motor control systems. It provides a practical foundation for further exploration in robotics and automation.
 
